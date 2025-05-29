@@ -82,6 +82,7 @@ int main() {
 }
 ```````````
 # OUTPUT:
-![Screenshot 2025-04-15 134248](https://github.com/user-attachments/assets/15dbfcfe-b2ff-4b8f-9c02-ddc9cbc219e1)
+![image](https://github.com/user-attachments/assets/3f532872-08fd-4b26-a2bd-d646d092c02d)
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
